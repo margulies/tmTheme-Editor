@@ -146,6 +146,7 @@
 {"name": "Morrowmind", "url": "https://raw.github.com/natestedman/morrowind/master/Morrowind.tmTheme", "light": false},
 {"name": "Mreq", "url": "https://raw.github.com/mreq/mreq-theme/master/mreq.tmTheme", "light": false },
 {"name": "Neon", "url": "https://raw.github.com/MattDMo/Neon.tmTheme/master/Neon.tmTheme", "light": false },
+{"name": "Neuro", "url": "https://gist.githubusercontent.com/margulies/e3e678144640523cf59a/raw/7360cdea111a9b20f5f631365d80b2a60ee19d2b/neuro.tmTheme", "light": false },
 {"name": "Nette", "url": "https://raw.githubusercontent.com/JZechy/tmThemes/master/Nette.tmTheme", "light": true },
 {"name": "NodeJS", "url": "https://raw.github.com/antlong/Textmate-Themes/master/TM1/nodejs.tmtheme", "light": false },
 {"name": "Notebook", "url": "https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Notebook.tmTheme", "light": true },
